@@ -1,7 +1,7 @@
 Content
 =======
 
-sbsmsampler is a VST plugin based on libsbsms (on sourceforge) which decomposes a sond into simusoidal tracks which can be instantiated as oscillator, filters, granulator, digital waveguides, etc.  It currenly ony wors on VST2.4, 32-bit with vstgui 2.4, on mac.  See ./build/macosx to change vst directory locations.
+sbsmsampler is a VST plugin based on libsbsms (on sourceforge) which decomposes a sound into sinusoidal tracks which can be instantiated as oscillators, filters, granulator, digital waveguides, etc.  It currenly ony works on VST2.4, 32-bit with vstgui 2.4, on mac.  See ./build/macosx to change vst directory locations.
 
 NOTE:
 When reading the output from sbsms, you must determine a stopping condition for yourself, as the library zero pads the output ad infinitum and never returns 0 samples.  The simplest method for doing so is found in test.cpp.
