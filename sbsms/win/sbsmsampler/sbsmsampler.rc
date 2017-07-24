@@ -1,0 +1,13 @@
+#define APSTUDIO_READONLY_SYMBOLS
+
+131		PNG			"../../resource/vst/bmp00131.png"
+132		PNG			"../../resource/vst/bmp00132.png"
+135		PNG			"../../resource/vst/bmp00135.png"
+136		PNG			"../../resource/vst/bmp00136.png"
+
+128                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00128.bmp"
+129                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00129.bmp"
+130                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00130.bmp"
+133                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00133.bmp"
+134                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00134.bmp"
+137                   BITMAP  DISCARDABLE     "../../resource/vst/bmp00137.bmp"

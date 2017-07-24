@@ -1,0 +1,62 @@
+FIXES:
+follow; currSample
+label gui
+
+-- "optimizations"
+remove sideband /particl
+decimate low amplitude tracks 
+
+---
+synth gen state
+render order, does state get used by one band before another steps it
+on resume, deal with latency, (sidegrain should be NULL, etc)
+
+single channel crash
+wavedisplay leftPos/rightPos/startPos fix
+transition on loop
+
+
+!determine role of mod1 and sideband / pivot
+release at (or before) rightPos
+comb high freq clip
+clipping - latency?
+sideband modulation control 
+
+setsidegrain voice->sample
+chech synthesis by testing command line convert
+
+NEW:
+!! incorporate latest libsbsms
+loop transition
+scrub 
+knob control - min magnitude for tracks (THRESH)
+- particles 
+discretize freq - MIDI controlled
+formants
+
+
+optimize update/set 
+e.g. case statements switch on bit flags
+
+-gui
+14
+14
+
+fAM0 fAM1 fFM0 fFM1 sbMod sbBW sbScale sbRelease thresh
+mAM0 mAM1 mFM0 mFM1 modPivot sbEnv force drag spring
+
+osc:
+dist0 dist1
+
+dwgs:
+decay0 decay1 lp0 lp1
+stringpos0 stringpos1
+
+gran:
+mode granrate0 granrate1 gransmooth0 gransmooth1
+
+dec:
+decbits0 decbits1
+
+comb:
+combfb0 combfb1

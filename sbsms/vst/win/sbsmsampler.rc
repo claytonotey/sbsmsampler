@@ -1,0 +1,12 @@
+#define APSTUDIO_READONLY_SYMBOLS
+
+131		PNG			"../images/bmp00131.png"
+132		PNG			"../images/bmp00132.png"
+135		PNG			"../images/bmp00135.png"
+136		PNG			"../images/bmp00136.png"
+
+128                   BITMAP  DISCARDABLE     "../images/bmp00128.bmp"
+129                   BITMAP  DISCARDABLE     "../images/bmp00129.bmp"
+130                   BITMAP  DISCARDABLE     "../images/bmp00130.bmp"
+133                   BITMAP  DISCARDABLE     "../images/bmp00133.bmp"
+134                   BITMAP  DISCARDABLE     "../images/bmp00134.bmp"

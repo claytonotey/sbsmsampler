@@ -1,0 +1,410 @@
+set program 0
+set sample file start /Volumes/kune0/audio/samples/samples/c#dom.sbsms c#dom
+0
+1 0x0
+2
+3
+set program 0
+get program name i
+render done 0 0
+render 0
+render 1
+render 2
+render 3
+render 4
+destroy renderer
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+gui open
+gui open 0
+gui open 1
+gui open 2
+gui open 3
+gui open 4
+gui open 5
+draw start
+draw 0
+draw 1
+draw 2
+draw 3
+render joined
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+midi 144
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+pv update render 0x3ab27b70
+render done 0 1
+render 0
+render 1
+render 2
+render 3
+render 4
+destroy renderer
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 144
+midi 128
+midi 176
+midi 144
+midi 128
+midi 176
